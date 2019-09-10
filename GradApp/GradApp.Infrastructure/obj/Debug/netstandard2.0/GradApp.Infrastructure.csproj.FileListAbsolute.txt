@@ -1,0 +1,5 @@
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netstandard2.0\GradApp.Core.dll
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.AssemblyInfo.cs
