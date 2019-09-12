@@ -3,3 +3,10 @@ C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructur
 C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.AssemblyInfo.cs
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netstandard2.0\GradApp.Infrastructure.deps.json
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netstandard2.0\GradApp.Infrastructure.dll
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netstandard2.0\GradApp.Infrastructure.pdb
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netstandard2.0\GradApp.Core.pdb
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.csproj.CopyComplete
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.dll
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netstandard2.0\GradApp.Infrastructure.pdb

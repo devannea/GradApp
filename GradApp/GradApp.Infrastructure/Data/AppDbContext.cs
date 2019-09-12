@@ -6,7 +6,7 @@ using System.Text;
 
 namespace GradApp.Infrastructure.Data
 {
-    class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
@@ -16,16 +16,18 @@ namespace GradApp.Infrastructure.Data
         {
             base.OnConfiguring(optionsBuilder);
 
-            optionsBuilder.UseSqlite("Data Source=GradApp.db");
+            optionsBuilder.UseSqlite(@"Data Source=C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\GradApp.db");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Student>().HasData(
-                  new Student { Id = 1, StudentId = 123456789, FirstName = "Jane", LastName = "Doe" }
+                  new Student { Id = 1, StudentId = 123456789, FirstName = "Jane", LastName = "Doe" },
+                  new Student { Id = 2, StudentId = 012345678, FirstName = "John", LastName = "Doe" }
             );
             modelBuilder.Entity<Course>().HasData(
-                  new Course { Id = 1, CourseCode = 1301, CourseSection = 201, CourseName = "MATH", Subject = "College Algebra" }
+                  new Course { Id = 1, CourseCode = 1301, CourseSection = 201, CourseName = "MATH", Subject = "College Algebra" },
+                  new Course { Id = 2, CourseCode = 1302, CourseSection = 221, CourseName = "MATH", Subject = "Developmental Math"}
             );
             modelBuilder.Entity<Timesheet>().HasData(
                   new Timesheet { Id = 1, ClockIn = new DateTime(2019, 09, 04, 13, 32, 02), ClockOut = new DateTime(2019, 09, 04, 14, 17, 41), Initials = "HK" },

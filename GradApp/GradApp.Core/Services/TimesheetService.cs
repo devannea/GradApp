@@ -5,7 +5,7 @@ using System.Text;
 
 namespace GradApp.Core.Services
 {
-    class TimesheetService : ITimesheetService
+    public class TimesheetService : ITimesheetService
     {
         private ITimesheetRepository _timesheetRepo;
 

@@ -7,7 +7,7 @@ using System.Text;
 
 namespace GradApp.Infrastructure.Data
 {
-    class CourseRepository : ICourseRepository
+    public class CourseRepository : ICourseRepository
     {
         private readonly AppDbContext _dbContext;
 

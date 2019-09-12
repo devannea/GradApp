@@ -1,0 +1,14 @@
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netcoreapp2.2\GradApp.Infrastructure.deps.json
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netcoreapp2.2\GradApp.Infrastructure.runtimeconfig.json
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netcoreapp2.2\GradApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netcoreapp2.2\GradApp.Infrastructure.dll
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netcoreapp2.2\GradApp.Infrastructure.pdb
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netcoreapp2.2\GradApp.Core.dll
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\bin\Debug\netcoreapp2.2\GradApp.Core.pdb
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netcoreapp2.2\GradApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netcoreapp2.2\GradApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netcoreapp2.2\GradApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netcoreapp2.2\GradApp.Infrastructure.AssemblyInfo.cs
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netcoreapp2.2\GradApp.Infrastructure.csproj.CopyComplete
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netcoreapp2.2\GradApp.Infrastructure.dll
+C:\Users\devan\Documents\DevFolder\GradApp\GradApp\GradApp\GradApp.Infrastructure\obj\Debug\netcoreapp2.2\GradApp.Infrastructure.pdb

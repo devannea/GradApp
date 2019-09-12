@@ -7,7 +7,7 @@ using System.Text;
 
 namespace GradApp.Infrastructure.Data
 {
-    class TimesheetRepository : ITimesheetRepository
+    public class TimesheetRepository : ITimesheetRepository
     {
         private readonly AppDbContext _dbContext;
 

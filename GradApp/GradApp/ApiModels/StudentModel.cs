@@ -16,7 +16,10 @@ namespace GradApp.ApiModels
         {
             get
             {
-                return Timesheets.ToList().Aggregate(TimeSpan.Zero, (memo, val) => memo.Add(val.ClockOut - val.ClockIn));
+                if (Timesheets != null)
+                    return Timesheets.ToList().Aggregate(TimeSpan.Zero, (memo, val) => memo.Add(val.ClockOut - val.ClockIn));
+                else
+                    return new TimeSpan();
             }
             private set { }
         }

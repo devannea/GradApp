@@ -13,6 +13,9 @@ namespace GradApp.ApiModels
             return new TimesheetModel
             {
                 Id = Timesheet.Id,
+                StudentFirstName = Timesheet.Student.FirstName,
+                StudentLastName = Timesheet.Student.LastName,
+                StudentId = Timesheet.StudentId,
                 //Course = Timesheet.Course,
                 ClockIn = Timesheet.ClockIn,
                 ClockOut = Timesheet.ClockOut,

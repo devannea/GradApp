@@ -3,7 +3,7 @@ using GradApp.Core.Models;
 
 namespace GradApp.Core.Services
 {
-    interface ITimesheetService
+    public interface ITimesheetService
     {
         Timesheet Add(Timesheet Timesheet);
         Timesheet Get(int id);
